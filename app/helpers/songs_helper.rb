@@ -9,3 +9,6 @@ module SongsHelper
   end
 
 end
+
+
+edit_song_path(song)
