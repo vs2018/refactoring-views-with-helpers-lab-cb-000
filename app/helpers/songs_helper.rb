@@ -1,9 +1,10 @@
 module SongsHelper
   
   def display_artist(song)
-    if song.artist != nil
+    if song.artist
       
     else
+      
     end
   end
 
