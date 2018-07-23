@@ -4,6 +4,7 @@ module SongsHelper
     if song.artist
       
     else
+    end
   end
 
 end
